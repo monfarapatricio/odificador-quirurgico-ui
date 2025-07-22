@@ -1,0 +1,60 @@
+{
+  "especialidades": {
+    "UROLOGÍA": {
+      "órganos": {
+        "PENE Y TESTICULO": [
+          {
+            "codigo": "05-01-01",
+            "nivel": "MB",
+            "descripcion": "Absceso perineal"
+          },
+          {
+            "codigo": "05-01-02",
+            "nivel": "MB",
+            "descripcion": "Meatotomía"
+          },
+          {
+            "codigo": "05-01-04",
+            "nivel": "MD",
+            "descripcion": "Sección frenillo"
+          },
+          {
+            "codigo": "05-01-05",
+            "nivel": "MD",
+            "descripcion": "Vasectomía"
+          },
+          {
+            "codigo": "05-01-06",
+            "nivel": "MD",
+            "descripcion": "Meatoplastía"
+          },
+          {
+            "codigo": "05-01-07",
+            "nivel": "ME",
+            "descripcion": "Hidrocele (uni o bilateral)"
+          },
+          {
+            "codigo": "05-01-08",
+            "nivel": "ME",
+            "descripcion": "Quiste de cordon"
+          },
+          {
+            "codigo": "05-01-09",
+            "nivel": "ME",
+            "descripcion": "Biopsia de pene"
+          },
+          {
+            "codigo": "05-01-10",
+            "nivel": "ME",
+            "descripcion": "Biopsia de testículo / Escrotoplastia"
+          },
+          {
+            "codigo": "05-01-11",
+            "nivel": "ME",
+            "descripcion": "Epididimectomía"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "especialidad",
+    "text": "¿Cuál es la especialidad quirúrgica?",
+    "type": "buttons",
+    "optionsSource": "especialidades"
+  },
+  {
+    "id": "organo",
+    "text": "¿Qué órgano está involucrado?",
+    "type": "buttons",
+    "optionsSource": "especialidades.{especialidad}.órganos"
+  },
+  {
+    "id": "procedimiento",
+    "text": "Seleccioná el procedimiento realizado",
+    "type": "buttons",
+    "optionsSource": "especialidades.{especialidad}.órganos.{organo}"
+  }
+]

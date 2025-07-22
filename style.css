@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f6f8fa;
+}
+#chat-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.bubble {
+  background: #e0e0e0;
+  border-radius: 15px;
+  padding: 10px 15px;
+  margin: 10px 0;
+  max-width: 90%;
+}
+.bubble.user {
+  background: #0084ff;
+  color: white;
+  align-self: flex-end;
+}
+button {
+  margin: 5px;
+}
